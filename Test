@@ -54,7 +54,7 @@ To protect user privacy and avoid biases in data handling, Sentinel Sphere Inc. 
 OKR: Launch a data access dashboard that allows users to review, manage, and delete their data,
 with at least 30% of active users interacting with it within the first three months.
 
-Our upcoming data access dashboard lets users review and control their personal
+	Our upcoming data access dashboard lets users review and control their personal
 information while ensuring transparency and complete user control. The initiative aims to boost
 regulatory compliance while building consumer trust and enabling users to manage their data
 conveniently. Our measure of success will be based on adoption rates with the target of getting at
@@ -70,7 +70,7 @@ security and online privacy. The dashboard will give these users enhanced contro
 personal data but its effectiveness depends on how user-friendly it is. If the interface appears
 overly complex or lacks clarity it will result in user frustration and reduce both adoption rates
 and engagement levels.
-The introduction of this OKR has substantial internal implications for our product
+	The introduction of this OKR has substantial internal implications for our product
 development process, engineering operations, and legal compliance requirements. The product
 and engineering teams must design and implement the dashboard so that it integrates smoothly into the platform while users get straightforward privacy controls. Challenges associated with
 this requirement involve real-time data deletion and retrieval without causing system
@@ -85,7 +85,7 @@ authority to conduct audits or issue penalties to businesses that do not allow u
 control. The Electronic Frontier Foundation (EFF) and consumer rights organizations will
 oversee the dashboard's performance and advocate for changes if it fails to adequately meet user
 Needs.
-These stakeholders have highly interdependent relationships. Users demand privacy tools
+	These stakeholders have highly interdependent relationships. Users demand privacy tools
 from the company which needs to align between user demands and regulatory standards with its
 business goals. Privacy advocacy groups together with government agencies monitor companies
 to ensure they fulfill their stated commitments. This OKR goes beyond compliance to establish a
